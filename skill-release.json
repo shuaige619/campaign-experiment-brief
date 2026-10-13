@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "campaign-experiment-brief",
+  "source_version": "3789e700cc1184a109e460e2836259a9be6e628554fe440d6ae4e146f6ff6916",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "2f14fe5d20402f8d8220ba7681714b9cb0ab4e370ba6fe6385bfdf3cb25b6387",
+    "SKILL.md": "c0fbf46a047ca6dcdef85de155e8667b19044da585470022e3b4209345a4249c",
+    "scripts/check_sources.py": "234202760054b4c5efee91c87028409a5dddc8e3570c10fd7084cbddb8032368"
+  }
+}
